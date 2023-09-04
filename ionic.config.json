@@ -1,0 +1,8 @@
+{
+  "name": "Hris",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "c4d88abb"
+}
